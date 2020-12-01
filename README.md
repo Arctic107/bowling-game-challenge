@@ -10,4 +10,5 @@ Example usage
 -------------------
 
 python.exe game.py 5/-5/-5/-5/-X-5/-5/-5/-5/-X1/
+
 python.exe game.py 45-54-36-27-09-63-81-18-90-72
